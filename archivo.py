@@ -7,6 +7,4 @@ texto = archivo.read()
 print(texto)
 archivo.close()
 
-for linea in archivo.readlines():
-    print(linea)
 
